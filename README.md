@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul P G</h1>
 <h3 align="center">I'm a passionate final-year student specializing in Artificial Intelligence and Machine Learning. I love building innovative projects.</h3>
-<img align="right" width="380" height="400" src="https://media2.giphy.com/media/CuuSHzuc0O166MRfjt/200w.gif?cid=6c09b952oms911lmxf0m4cx7kmpfv6ij5069jxlru9hrwlvx&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" width="470" height="350" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+
 - 🌱 I’m currently learning **FullStack Development**
 
 - 📫 How to reach me **pgrahul10@gmail.com**
